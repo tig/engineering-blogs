@@ -507,6 +507,7 @@
 
 #### C individuals
 * Carlos Becker https://carlosbecker.com
+* Charlie Kindel https://ceklog.kindel.com
 * Chen Hui Jing https://www.chenhuijing.com/blog/
 * Chien Tran http://thelazylog.com/
 * Chris Hager https://www.metachris.com/blog/
